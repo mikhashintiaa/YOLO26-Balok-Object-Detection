@@ -1,0 +1,9 @@
+path: /home/mikha/Documents/YOLO/YOLO/dataset_v1
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: balok_hijautua
+  1: balok_hitam
+  2: balok_merahmuda
+  3: papan_balok

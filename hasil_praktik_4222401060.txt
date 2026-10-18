@@ -1,0 +1,17 @@
+==============================================================================
+  PRAKTIK TERPADU MINGGU 4-7 - RET503
+==============================================================================
+  NIM / Nama    : 4222401060 / Mikha Shintia Sitorus
+  Waktu         : 18-10-2026 00:16:50
+  Komputer/user : mikhaa / mikha
+  Dataset       : dataset_v1  (sidik jari label: 3F9FE3AC6B8F)
+  Pengaturan    : model yolo26n, epochs 30, imgsz 416, batch 16
+==============================================================================
+  Eksperimen     Perubahan        mAP50  mAP50-95      P      R     ms   menit
+  E1_pretrained  -                0.995     0.976  0.992  1.000   20.9    10.8
+  E2_scratch     -                0.952     0.634  0.839  0.898   21.9    10.7
+  E3_tuning      imgsz=640        0.995     0.969  0.989  1.000   60.8    26.1
+==============================================================================
+  Model terpilih (mAP50-95 val tertinggi): E1_pretrained
+  Hasil di data TEST (sekali saja)       : mAP50 0.995 | mAP50-95 0.991
+==============================================================================
