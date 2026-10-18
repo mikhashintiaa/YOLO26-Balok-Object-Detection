@@ -8,8 +8,6 @@
 
 <br>
 
-## Identitas
-
 | Keterangan | Informasi |
 |---|---|
 | **Nama** | Mikha Shintia Sitorus |
