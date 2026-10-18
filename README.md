@@ -427,7 +427,6 @@ YOLO26-Balok-Object-Detection/
 ├── 03_coco_ke_yolo.py
 ├── 05_split_dataset_yolo.py
 ├── 06_latih_bandingkan.py
-├── 07_siapkan_gambar_readme.py
 │
 ├── dataset_yolo/
 ├── hasil_yolo/
