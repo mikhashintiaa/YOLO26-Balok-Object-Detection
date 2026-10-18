@@ -1,13 +1,21 @@
+<div align="center">
+
 # Deteksi Objek Balok Menggunakan YOLO26n
 
-<p align="center">
-  <b>Perbandingan Pretrained, Scratch, dan Hyperparameter Tuning pada YOLO26n</b>
-</p>
+### Perbandingan Pretrained, Scratch, dan Hyperparameter Tuning pada YOLO26n
 
-<p align="center">
-  <b>Mikha Shintia Sitorus</b><br>
-  NIM 4222401060
-</p>
+</div>
+
+<br>
+
+## Identitas
+
+| Keterangan | Informasi |
+|---|---|
+| **Nama** | Mikha Shintia Sitorus |
+| **NIM** | 4222401060 |
+| **Model** | YOLO26n |
+| **Task** | Object Detection |
 
 ---
 
