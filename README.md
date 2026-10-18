@@ -479,8 +479,3 @@ Eksperimen menunjukkan bahwa pretrained weight memberikan peningkatan performa y
 Oleh karena itu, **YOLO26n pretrained dengan `imgsz=416` dipilih sebagai konfigurasi terbaik** untuk dataset pada proyek ini.
 
 ---
-
-## Author
-
-**Mikha Shintia Sitorus**  
-**NIM 4222401060**
